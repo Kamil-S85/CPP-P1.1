@@ -1,6 +1,6 @@
 // CPP-P1.1
 
-//#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
